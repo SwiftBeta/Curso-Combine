@@ -7,5 +7,10 @@
         <page name='Operador TryMap'/>
         <page name='Operador Retry'/>
         <page name='Operador Filter'/>
+        <page name='Publishers Just &amp; Fail'/>
+        <page name='Operador FlatMap'/>
+        <page name='Future'/>
+        <page name='URLSession'/>
+        <page name='CombineLatest &amp; Zip'/>
     </pages>
 </playground>
